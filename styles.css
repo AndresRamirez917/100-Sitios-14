@@ -13,10 +13,10 @@ body {
 
 /* utilities */
 .container {
-    max-width: 1300px;
-    margin: 0 auto;
-    overflow: auto;
-    padding: 0 20px;
+    margin: auto;
+  max-width: 1300px;
+  overflow: auto;
+  padding: 0 20px;
 }
 
 .btn {

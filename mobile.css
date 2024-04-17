@@ -1,0 +1,64 @@
+#navbar {
+    float: none;
+}
+
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+#navbar ul li {
+    float: none;
+    display: inline-block;
+    
+}
+
+#about .image {
+    float: none;
+    width: 100%;
+}
+
+#about .text {
+    float: none;
+    width: 100%;
+}
+
+#work .work-title {
+    float: none;
+    width: 100%;
+}
+
+#work .work-text {
+    float: none;
+    width: 100%;
+}
+
+#pictures .pictures-image-1 {
+    float: none;
+    width: 100%;
+}
+
+#pictures .pictures-image-2 {
+    float: none;
+    width: 100%;
+}
+
+.contact-form {
+    float: none;
+    width: 100%;
+}
+
+.contact-title {
+    float: none;
+    width: 100%;
+}
+
+#footer {
+    margin-top: 500px;
+}
